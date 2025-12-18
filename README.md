@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Miguel de Barros
+
+**Principal Architect** | **Software Engineer** | **Open Source Contributor**
+
+I'm a technologist with over 20 years of experience in enterprise software integration, cloud-native architectures, and financial technology.
+
+## 🚀 Open Source Projects
+
+I/have actively contribute to the following OSS projects, so check them out:
+
+- **[Mojaloop](https://mojaloop.io/)** — An open-source platform enabling digital financial services for the world's underbanked
+- **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes
+
+# 🌍 Beyond Code
+
+When I'm not architecting systems, you'll find me:
+- 🧗 Rock climbing
+- 📷 Behind a camera lens
+- 🎮 Exploring the 'verse in Star Citizen
+
+## 📫 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-debarros.me-blue?style=flat&logo=google-chrome&logoColor=white)](https://debarros.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migueldebarros-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldebarros)
 
 <!--
 **mdebarros/mdebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
