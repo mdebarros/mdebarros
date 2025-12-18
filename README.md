@@ -6,7 +6,7 @@ I'm a technologist with over 20 years of experience in enterprise software integ
 
 ## 🚀 Open Source Projects
 
-I/have actively contribute to the following OSS projects, so check them out:
+I actively contribute to the following OSS projects — so check them out:
 
 - **[Mojaloop](https://mojaloop.io/)** — An open-source platform enabling digital financial services for the world's underbanked
 - **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes
