@@ -13,7 +13,7 @@ I actively contribute to the following OSS projects — so check them out:
 
 # 🌍 Beyond Code
 
-When I'm not architecting systems, you'll find me:
+When I'm not building systems, you'll find me:
 - 🧗 Rock climbing
 - 📷 Behind a camera lens
 - 🎮 Exploring the 'verse in Star Citizen
