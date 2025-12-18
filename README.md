@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Miguel de Barros
 
-**Principal Architect** | **Software Engineer** | **Open Source Contributor**
+**Architect** | **Software Engineer** | **Open Source Contributor**
 
 I'm a technologist with over 20 years of experience in enterprise software integration, cloud-native architectures, and financial technology.
 
