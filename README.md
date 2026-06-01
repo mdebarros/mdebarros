@@ -8,9 +8,9 @@ I'm a technologist with over 20 years of experience in enterprise software integ
 
 I actively contribute to the following OSS projects — so check them out:
 
-- **[Mojaloop](https://mojaloop.io/)** — An open-source platform enabling digital financial services for the world's underbanked
-- **[Tazama](https://tazama.org/)** — An open-source real-time fraud prevention engine hosted by Linux Foundation Charities. Contributed to the core codebase during its early **FRMS / Actio** incubation phases.
-- **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes
+- **[Mojaloop](https://mojaloop.io/)** — An open-source real-time clearing engine enabling interoperable digital financial services for the world's underbanked. Serving as a core technical lead focusing on reference architecture, microservice performance characterization, and core engineering, while actively shaping the platform's evolution as a member of the Mojaloop Design Authority.
+- **[Tazama](https://tazama.org/)** — An open-source real-time fraud prevention engine hosted by Linux Foundation Charities. Spearheaded early architectural design and built Proof-of-Concept pipelines during its initial **FRMS / Actio** incubation phases.
+- **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes. Leverage and contribute
 
 # 🌍 Beyond Code
 
