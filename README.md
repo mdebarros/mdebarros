@@ -10,7 +10,7 @@ I actively contribute to the following OSS projects — so check them out:
 
 - **[Mojaloop](https://mojaloop.io/)** — An open-source real-time clearing engine enabling interoperable digital financial services for the world's underbanked. Served as a core technical lead focusing on reference architecture, microservice performance characterization, and core engineering, while actively shaping the platform's evolution as a member of the Mojaloop Design Authority.
 - **[Tazama](https://tazama.org/)** — An open-source real-time fraud prevention engine hosted by Linux Foundation Charities. Designed and built the early Proof-of-Concept pipelines to integrate the engine into the Mojaloop switch during its initial **FRMS / Actio** incubation phases.
-- **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes. Leverage and contribute
+- **[Argo CD](https://argoproj.github.io/cd/)** — Declarative GitOps continuous delivery for Kubernetes. Contributed default health assessment scripts for Apache ecosystem Custom Resource Definitions (CRDs).
 
 # 🌍 Beyond Code
 
